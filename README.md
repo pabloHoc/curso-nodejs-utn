@@ -1,4 +1,4 @@
-# Curso Node.js UTN
+# Curso Node.js UTN #
 
 Repositorio para el código del curso de Node.js
 
@@ -10,13 +10,15 @@ Para clonar:
 * Clonar el repositorio: 
 ```
   git clone https://github.com/pabloHoc/curso-nodejs-utn.git
-```
-<br>
+``` 
+<br/>
+
 ## intronode
 
 * Moverse a la carpeta del proyecto, por ejemplo ```cd Documents/curso-nodejs-utn/intronode```
-* Ejecutar el programa con el parámetro ```node app.js --help``` para ver los comandos disponibles
-<br>
+* Ejecutar el programa con el parámetro ```node app.js --help``` para ver los comandos disponibles 
+<br/>
+
 ## animalsapi
 
 * Moverse a la carpeta del proyecto, por ejemplo ```cd Documents/curso-nodejs-utn/animalsapi```
