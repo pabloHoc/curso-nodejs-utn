@@ -11,13 +11,13 @@ Para clonar:
 ```
   git clone https://github.com/pabloHoc/curso-nodejs-utn.git
 ```
-
-##intronode
+<br>
+## intronode
 
 * Moverse a la carpeta del proyecto, por ejemplo ```cd Documents/curso-nodejs-utn/intronode```
 * Ejecutar el programa con el parámetro ```node app.js --help``` para ver los comandos disponibles
-
-##animalsapi
+<br>
+## animalsapi
 
 * Moverse a la carpeta del proyecto, por ejemplo ```cd Documents/curso-nodejs-utn/animalsapi```
 * Instalar las dependencias con ```npm install```
