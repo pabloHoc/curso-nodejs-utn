@@ -32,3 +32,10 @@ Para clonar:
 * Instalar las dependencias con ```npm install```
 * Inicializar el server con ```node app.js```
 * Con Postman (https://www.getpostman.com/downloads/), crear una nueva request teniendo como endpoint ```localhost:3000/api/v1/animals```, para obtener todos los animales en la db 
+
+## animalsdb
+
+* Moverse a la carpeta del proyecto, por ejemplo ```cd Documents/curso-nodejs-utn/animalsdb```
+* Instalar las dependencias con ```npm install```
+* Inicializar el server con ```node app.js```
+* Con Postman (https://www.getpostman.com/downloads/), crear una nueva request teniendo como endpoint ```localhost:3000/api/v1/animals```, para obtener todos los animales en la db 
