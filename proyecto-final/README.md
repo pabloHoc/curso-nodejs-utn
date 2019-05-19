@@ -38,8 +38,9 @@ Realización del backend de un clon de reddit utilizando las tecnologías y cont
 * En collections.js, exportar un objeto con los nombres de las colecciones
 * Ir leyendo los archivos de controllers e ir completandolos de a poco siguiendo las instrucciones y requerimientos que están detallados como comentarios en el mismo archivo. Analizar detenidamente lo que se está pidiendo y tratar de tener en claro qué es lo que se pretende hacer antes de empezar a escribir el código 
 * Ir completando las rutas con el router de express
+* Completar el middleware requerido
 * Incluir los routers exportados en app.js
-* IMPORTANTE!: Encarar un método de controlador y una ruta a la vez, probarla y chequear funcione, y luego pasar a la siguiente, no intentar hacer todo a la vez!
+* IMPORTANTE!: Encarar un método de controlador y una ruta a la vez, probarla y chequear que funcione, y luego pasar a la siguiente, no intentar hacer todo a la vez!
 * Utilizar sintaxis de ES6 (let, const, funciones flechas, async/await, clases, métodos estáticos)
 * Ser prolijo con la indentación del código y utilizar nombres adecuados para las variables
 * Incluir comentarios en el código cuando lo consideren oportuno o necesario
