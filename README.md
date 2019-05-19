@@ -13,6 +13,21 @@ Para clonar:
 ``` 
 <br/>
 
+Para actualizar los cambios
+
+* Con cd ir moviéndose al directorio donde queremos tenemos clonado el repositorio, ej. ```cd Documents```
+* Traer los últimos cambios: 
+```
+  git pull
+``` 
+
+Ojo que si tenemos algo modificado en el repositorio, al traer los cambios se van a pisar y es probable que se borren las cosas que hicimos, (si hicimos algo) o que nos de un conflicto. En ese caso, lo mejor es antes de hacer ```git pull```, copiar los archivos modificados a una nueva carpeta, fuera del repositorio, y luego en el repositorio hacer:
+ 
+```
+  git reset --hard
+  git pull
+``` 
+
 ## intronode
 
 * Moverse a la carpeta del proyecto, por ejemplo ```cd Documents/curso-nodejs-utn/intronode```
