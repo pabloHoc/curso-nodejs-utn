@@ -1,0 +1,107 @@
+[Sat Apr 27 2019 11:10:50 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Gaviota","type":"Ave"} 
+[Sat Apr 27 2019 11:11:12 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Gaviota","type":"Ave"} 
+[Sat Apr 27 2019 11:23:24 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {} 
+[Sat Apr 27 2019 11:27:48 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"123456"} 
+[Sat Apr 27 2019 11:27:58 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"node"} 
+[Sat Apr 27 2019 11:35:17 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"node"} 
+[Sat Apr 27 2019 11:42:21 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat Apr 27 2019 11:43:16 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat Apr 27 2019 11:43:50 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat Apr 27 2019 11:44:00 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat Apr 27 2019 11:49:01 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat Apr 27 2019 11:49:28 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"node"} 
+[Sat Apr 27 2019 11:49:39 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat Apr 27 2019 11:50:03 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat Apr 27 2019 11:50:08 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat Apr 27 2019 12:12:44 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"pablo","password":"node"} 
+[Sat Apr 27 2019 12:13:25 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/1 | {} 
+[Sat Apr 27 2019 12:13:36 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"node"} 
+[Sat Apr 27 2019 12:13:49 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/1 | {} 
+[Sat Apr 27 2019 13:52:22 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"node"} 
+[Sat Apr 27 2019 13:52:41 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/3 | {} 
+[Sat Apr 27 2019 13:53:18 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:53:26 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:53:40 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/3 | {} 
+[Sat Apr 27 2019 13:54:46 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/3 | {} 
+[Sat Apr 27 2019 13:54:57 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:55:01 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:55:05 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/3 | {} 
+[Sat Apr 27 2019 13:55:10 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:55:14 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:55:17 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:55:46 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/2 | {} 
+[Sat Apr 27 2019 13:55:52 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:55:54 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:56:57 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/2 | {} 
+[Sat Apr 27 2019 13:57:04 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:57:21 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/2 | {} 
+[Sat Apr 27 2019 13:57:23 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:57:38 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/2 | {} 
+[Sat Apr 27 2019 13:57:40 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:57:46 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:58:28 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:58:37 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/2 | {} 
+[Sat Apr 27 2019 13:58:40 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:58:49 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:58:56 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:59:25 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:59:27 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/2 | {} 
+[Sat Apr 27 2019 13:59:31 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:59:34 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:59:49 GMT-0300 (Argentina Standard Time)] DELETE: /api/v1/animals/4 | {} 
+[Sat Apr 27 2019 13:59:54 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 13:59:59 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat Apr 27 2019 14:00:02 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Breakfas","type":"have breakfast"} 
+[Sat May 04 2019 12:34:39 GMT-0300 (Argentina Standard Time)] POST: /api/v1/signin | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:35:17 GMT-0300 (Argentina Standard Time)] POST: /api/v1/signin | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:36:38 GMT-0300 (Argentina Standard Time)] POST: /api/v1/signin | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:37:50 GMT-0300 (Argentina Standard Time)] POST: /api/v1/signin | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:38:42 GMT-0300 (Argentina Standard Time)] POST: /api/v1/signin | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:39:11 GMT-0300 (Argentina Standard Time)] POST: /api/v1/signin | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:39:36 GMT-0300 (Argentina Standard Time)] POST: /api/v1/signin | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:41:21 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:41:45 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:41:59 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"pabloh123"} 
+[Sat May 04 2019 12:42:47 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"pabloh123"} 
+[Sat May 04 2019 12:42:56 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"pablo","password":"pabloh"} 
+[Sat May 04 2019 12:43:03 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"pablo","password":"pabloh123"} 
+[Sat May 04 2019 12:48:04 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Perro","type":"Mamifero"} 
+[Sat May 04 2019 12:51:50 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Perro","type":"Mamifero"} 
+[Sat May 04 2019 12:52:12 GMT-0300 (Argentina Standard Time)] POST: /api/v1/animals | {"name":"Paloma","type":"Ave"} 
+[Sat May 04 2019 12:52:20 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {"name":"Paloma","type":"Ave"} 
+[Sat May 04 2019 12:54:54 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals/5ccdb52c89edb236e430e8f3 | {"name":"Paloma","type":"Ave"} 
+[Sat May 04 2019 12:56:36 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals/5ccdb52c89edb236e430e8f3 | {"name":"Paloma","type":"Ave"} 
+[Sat May 04 2019 13:59:42 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals/5ccdb52c89edb236e430e8f3 | {"name":"Paloma","type":"Ave"} 
+[Sat May 04 2019 14:06:21 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals/5ccdb52c89edb236e430e8f3 | {"name":"Paloma","type":"Ave"} 
+[Sat May 04 2019 14:06:36 GMT-0300 (Argentina Standard Time)] PUT: /api/v1/animals/5ccdb52c89edb236e430e8f3 | {"name":"Gaviota","type":"Ave"} 
+[Sat May 04 2019 14:06:43 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals/ | {"name":"Gaviota","type":"Ave"} 
+[Sat May 11 2019 10:52:52 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"admin","password":"password"} 
+[Sat May 11 2019 10:53:16 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"pablo","password":"pabloh123"} 
+[Sat May 11 2019 10:56:29 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat May 11 2019 10:59:07 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"pablo","password":"pabloh123"} 
+[Sat May 11 2019 10:59:14 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat May 11 2019 11:09:36 GMT-0300 (Argentina Standard Time)] GET: /api/v1/animals | {} 
+[Sat May 11 2019 11:17:25 GMT-0300 (Argentina Standard Time)] POST: /api/v1/signin | {"username":"test","password":"nodejs"} 
+[Sat May 11 2019 11:20:08 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"test","password":"nodejs"} 
+[Sat May 11 2019 11:20:15 GMT-0300 (Argentina Standard Time)] POST: /api/v1/login | {"username":"test","password":"asdasd"} 
+[Sat May 11 2019 11:32:10 GMT-0300 (Argentina Standard Time)] GET: / | {"username":"test","password":"asdasd"} 
+[Sat May 11 2019 11:32:38 GMT-0300 (Argentina Standard Time)] GET: / | {} 
+[Sat May 11 2019 11:32:38 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
+[Sat May 11 2019 11:32:53 GMT-0300 (Argentina Standard Time)] GET: / | {} 
+[Sat May 11 2019 11:32:53 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
+[Sat May 11 2019 11:35:09 GMT-0300 (Argentina Standard Time)] GET: /name | {} 
+[Sat May 11 2019 11:35:09 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
+[Sat May 11 2019 11:35:38 GMT-0300 (Argentina Standard Time)] GET: /name | {} 
+[Sat May 11 2019 11:35:38 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
+[Sat May 11 2019 11:36:47 GMT-0300 (Argentina Standard Time)] GET: /name/Ariel | {} 
+[Sat May 11 2019 11:36:47 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
+[Sat May 11 2019 11:36:54 GMT-0300 (Argentina Standard Time)] GET: /name/Pablo | {} 
+[Sat May 11 2019 11:36:54 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
+[Sat May 11 2019 11:36:58 GMT-0300 (Argentina Standard Time)] GET: /name/Henry | {} 
+[Sat May 11 2019 11:36:58 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
+[Sat May 11 2019 11:38:43 GMT-0300 (Argentina Standard Time)] GET: /home | {} 
+[Sat May 11 2019 11:38:43 GMT-0300 (Argentina Standard Time)] GET: / | {} 
+[Sat May 11 2019 11:38:44 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
+[Sat May 11 2019 11:38:52 GMT-0300 (Argentina Standard Time)] GET: /home | {} 
+[Sat May 11 2019 11:38:52 GMT-0300 (Argentina Standard Time)] GET: / | {} 
+[Sat May 11 2019 11:38:52 GMT-0300 (Argentina Standard Time)] GET: /favicon.ico | {} 
